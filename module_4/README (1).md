@@ -267,4 +267,12 @@ ISB&M Engineering College
 
 ---
 
-> 🏷️ *This project demonstrates the integration of AI-based visual intelligence with scalable web technologies for public safety and automation.*
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+### ⚠️ Third-Party Licenses
+[cite_start]This project utilizes **YOLOv8** by Ultralytics for object detection[cite: 8, 361]. 
+Please note that YOLOv8 is distributed under the **AGPL-3.0 License**. 
+While the source code for *CrowdCount* is provided under MIT, the usage of YOLOv8 constitutes a combined work. 
+Commercial use of this project may require a separate license from Ultralytics.
